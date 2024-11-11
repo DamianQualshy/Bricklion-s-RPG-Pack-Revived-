@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 34,
-    "description": "Version 1.21.1"
+    "pack_format": 42,
+    "description": "Version 1.21.3"
   },
   "meta": {
-    "game_version": "1.21.1"
+    "game_version": "1.21.3"
   }
 }
